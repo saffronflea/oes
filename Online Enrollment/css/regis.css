@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
+body{
+    background-color: #B9B9DA!important;
+}
+.h-title{
+    text-align:center;
+    background-color: #9C9DAA;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-family: "Inter", sans-serif;
+}
+.f-title{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-family: "Inter", sans-serif;
+}
+.inputForm {
+    border: 1.5px solid black;
+    border-radius: 10px;
+    height: 40px;
+    align-items: center;
+    padding-left: 10px;
+    width: 20rem;
+    transition: 0.2s ease-in-out;
+}
+#input {
+    margin-left: 10px;
+    border-radius: 10px;
+    border: none;
+    color: black;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+.selectForm {
+    border: 1.5px solid black;
+    border-radius: 10px;
+    height: 40px;
+    align-items: center;
+    width: 8rem;
+    transition: 0.2s ease-in-out;
+}
+label {
+    color: black;
+    font-weight: 700;
+    margin-left: 10px;
+}
+.f-title1{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-family: "Inter", sans-serif;
+}
+.first_line{
+    padding: 1rem;
+}
+.button_line{
+    text-align: end;
+    padding-right: 5rem;
+}
+.button-submit {
+    margin: 20px 0 10px 0;
+    background-color: #151717;
+    border: none;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 10px;
+    height: 50px;
+    width: 10%;
+    cursor: pointer;
+}
+  
+.button-submit:hover{
+    background-color: aqua;
+    color: black;
+}
+.button-c {
+    margin: 20px 0 10px 0;
+    background-color: #151717;
+    border: none;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 10px;
+    height: 50px;
+    width: 10%;
+    cursor: pointer;
+}
+  
+.button-c:hover{
+    background-color: white;
+    color: black;
+}
